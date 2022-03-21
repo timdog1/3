@@ -31,7 +31,7 @@ const FooterSection = () => {
             <Grid item xs={12} sm={4} md={4} lg={4} className={classes.imageLine}>
               <Box className={classes.supportImage}>
                 <Typography className={classes.text}>For Updates: </Typography>
-                <a href="https://twitter.com">
+                <a href="https://twitter.com/funkyhorsepub">
                   <img src={twitter} className={classes.socialAvatar} />
                 </a>
               </Box>
@@ -39,7 +39,7 @@ const FooterSection = () => {
             <Grid item xs={12} sm={4} md={4} lg={4} className={classes.imageLine}>
               <Box className={classes.supportImage}>
                 <Typography className={classes.text}>For Information </Typography>
-                <a href="https://instagram.com">
+                <a href="https://www.instagram.com/thefunkyhorsepubofficial/">
                   <img src={instagram} className={classes.socialAvatar} />
                 </a>
               </Box>
