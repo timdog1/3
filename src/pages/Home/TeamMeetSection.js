@@ -1,7 +1,7 @@
 import React from 'react'
 import { Box, Grid, Typography } from '@material-ui/core'
 // core components
-import meetAvatar from 'assets/images/Home/team.png'
+import meetAvatar from 'assets/images/Home/team.gif'
 
 import { makeStyles } from '@material-ui/core/styles'
 import styles from 'assets/jss/pages/Home/teamMeetSectionStyle'
