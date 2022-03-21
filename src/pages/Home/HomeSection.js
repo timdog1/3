@@ -23,7 +23,7 @@ const HomeSection = () => {
           {/* <Box className={classes.homeImage}> */}
           <Box className={classes.content}>
             <Grid item xs={12} sm={12} md={12} lg={12}>
-              <Typography className={classes.title}>What is ASTROHEDZ?</Typography>
+              <Typography className={classes.title}>What is The Funky Horse Pub?</Typography>
               <Typography className={globalClasses.text21}>
                 The Funky Horse Pub is a collection of 8888 unique NFTs living on the Avalanche
                 blockchain. What makes this project different than any other NFT project is that there are collections
