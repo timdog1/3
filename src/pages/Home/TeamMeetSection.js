@@ -36,7 +36,8 @@ const TeamMeetSection = () => {
                   <Box>
                     <Typography className={globalClasses.text21}>
                     Can DOĞAN (CO-Founder-Designer-Community Manager-Developer) 
-                    Umut AĞGÜL (CO-Founder-Developer-Community Manager-NFT Activist)
+
+                    Çağan Cerrahoğlu (Developer-Community Manager)
                     </Typography>
                   </Box>
                 </Grid>
