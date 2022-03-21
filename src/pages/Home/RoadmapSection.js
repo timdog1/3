@@ -30,49 +30,49 @@ const RoadmapSection = () => {
       </Box>
       <Box className={classes.roadmapContainer}>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap1} percentage={10} description={'The roadmap will be realized with the percentage of completion of sales, and the project will be able to move forward with the revenue from sales.'} />
+          <Roadmap image={roadmap1} percentage={10} description={'A volunteer Funky career program will be launched.'} />
         </Box>
         <Box style={{ marginLeft: '120px' }}>
           <Roadmap
             image={roadmap2}
             percentage={20}
-            description={'The website will be opened.'}
+            description={'The terrace development will be started.'}
           />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap3} percentage={30} description={'A volunteer Funky career program will be launched.'} />
+          <Roadmap image={roadmap3} percentage={30} description={'A community-specific Utility token, the purpose and use of which is decided by the community, will be offered to the community.'} />
         </Box>
         <Box style={{ marginLeft: '0px' }}>
           <Roadmap
             image={roadmap4}
             percentage={40}
-            description={'The terrace will be operational.'}
+            description={'The Funky fashion department will be opened, the Funky fashion brand will be created and the clothes belonging to our community will be made in the style of T-shirts, Hoodies.'}
           />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap5} percentage={50} description={'The token name and roadmap will be prepared together with the community, and the purpose for which it will be used will be determined by the opinions and votes of the community.'} />
+          <Roadmap image={roadmap5} percentage={50} description={'The terrace will be operational.'} />
         </Box>
         <Box style={{ marginLeft: '120px' }}>
-          <Roadmap image={roadmap6} percentage={60} description={'A community-specific utility token will be released.'} />
+          <Roadmap image={roadmap6} percentage={60} description={'P2E game development based on Metaverse and Web3.0 will be started and will be offered to the community as soon as possible.'} />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap7} percentage={70} description={'IRL events and live meetings will be held together with the members of the Funky Pub, which we have established with strong ties.'} />
+          <Roadmap image={roadmap7} percentage={70} description={'Funky owners will be able to use their Funky NFTS as they wish and the Chill Zone will open.'} />
         </Box>
         <Box style={{ marginLeft: '0px' }}>
-          <Roadmap image={roadmap8} percentage={80} description={'The Metaverse and Web 3.0 roadmap will be determined with the ideas and votes of the community and Funky NFT owners, and then their development will begin.'} />
+          <Roadmap image={roadmap8} percentage={80} description={'In the world of the Metaverse, 200 random people who have own funk will be given land and special avatar.'} />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
           <Roadmap
             image={roadmap9}
             percentage={90}
-            description={'The Metaverse and Web 3.0 roadmap will be determined with the ideas and votes of the community and Funky NFT owners, and then their development will begin.'}
+            description={'Real life events and live meetings will be held.'}
           />
         </Box>
         <Box style={{ marginLeft: '120px' }}>
           <Roadmap
             image={roadmap10}
             percentage={100}
-            description={'The Chain Baazar, the first decentralized international baazar in the world, will begin its development.'}
+            description={'A brainstorming will be conducted among the community, ideas will be declared in the form of a questionnaire, and the most liked, most appropriate idea will be used for the next stage.'}
           />
         </Box>
       </Box>
