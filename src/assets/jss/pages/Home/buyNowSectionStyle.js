@@ -9,7 +9,7 @@ const buyNowSectionStyle = {
   },
   quantityContainer: {
     paddingTop: 40,
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#77bbe0',
   },
   quantityTitle: {
     color: 'black !important',
