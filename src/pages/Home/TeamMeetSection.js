@@ -36,8 +36,7 @@ const TeamMeetSection = () => {
                   <Box>
                     <Typography className={globalClasses.text21}>
                     İsmail Can DOĞAN (CO-Founder-Designer-Community Manager-Developer) 
-                    </Box>
-                    <Box style={{ marginLeft: '120px' }}>
+                    </Box>                    
                     Umut AĞGÜL (CO-Founder-Developer-Community Manager-NFT Activist)
                     </Typography>
                   </Box>
