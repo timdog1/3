@@ -91,7 +91,7 @@ const HeaderLinks = () => {
         </a>
       </ListItem>
       <ListItem className={classes.listItem}>
-        <a href="https://instagram.com">
+        <a href="https://www.instagram.com/thefunkyhorsepubofficial/">
           <img src={instagram} className={classes.socialAvatar} />
         </a>
       </ListItem>
