@@ -35,8 +35,7 @@ const TeamMeetSection = () => {
                 <Grid item xs={12} sm={12} md={7} lg={7} style={{ alignItems: 'center' }}>
                   <Box>
                     <Typography className={globalClasses.text21}>
-                    Can DOĞAN (CO-Founder-Designer-Community Manager-Developer) 
-                    </Typography>
+                    Can DOĞAN (CO-Founder-Designer-Community Manager-Developer)                     
                     Çağan Cerrahoğlu (Developer-Community Manager)
                     </Typography>
                   </Box>
