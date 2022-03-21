@@ -2,22 +2,22 @@ import React from 'react'
 
 import { useHistory } from 'react-router-dom'
 
-// nodejs library that concatenates classes
+
 import classNames from 'classnames'
 
-// material ui core components
+
 import { AppBar, Button, Drawer, Hidden, Toolbar } from '@material-ui/core'
 
-// @material-ui/icons
+
 import MenuIcon from '@material-ui/icons/Menu'
 
-// images
+
 import brand from 'assets/images/logo.png'
 
-// import context variables
+
 import { useNavigation } from 'hook/Context/NavigationContext'
 
-// styles
+
 import { makeStyles } from '@material-ui/core/styles'
 import styles from 'assets/jss/components/Header/headerStyle'
 
@@ -36,13 +36,13 @@ const Header = props => {
 
   const history = useHistory()
 
-  // context variables
+
   const { navigation, setNavigation } = useNavigation()
 
-  // variables
+
   const [mobileOpen, setMobileOpen] = React.useState(false)
 
-  // handlers
+
   React.useEffect(() => {
     setMobileOpen(false)
   }, [navigation])
