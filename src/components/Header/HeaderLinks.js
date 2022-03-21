@@ -1,4 +1,4 @@
-/*eslint-disable*/
+
 import React from 'react'
 import { HashLink as Link } from 'react-router-hash-link'
 import { useHistory } from 'react-router-dom'
@@ -17,13 +17,13 @@ const HeaderLinks = () => {
   const classes = useStyles()
   const history = useHistory()
 
-  // context variables
+
   const { navigation, setNavigation } = useNavigation()
 
-  // handlers
+
   const handleGotoNav = path => {
     setNavigation(path)
-    // history.push('/#' + path)
+    
   }
 
   return (
