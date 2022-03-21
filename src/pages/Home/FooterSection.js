@@ -23,7 +23,7 @@ const FooterSection = () => {
             <Grid item xs={12} sm={4} md={4} lg={4} className={classes.imageLine}>
               <Box className={classes.supportImage}>
                 <Typography className={classes.text}>For Question: </Typography>
-                <a href="https://discord.com">
+                <a href="https://discord.com/invite/S9MZ6P4zPv">
                   <img src={discord} className={classes.socialAvatar} />
                 </a>
               </Box>
