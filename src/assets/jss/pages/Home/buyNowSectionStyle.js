@@ -30,7 +30,7 @@ const buyNowSectionStyle = {
   galaxyContainer: {
     paddingTop: 40,
     paddingBottom: 30,
-    backgroundColor: '#38EB28',
+    backgroundColor: '#77bbe0',
   },
   galaxyTitle: {
     color: 'black !important',
