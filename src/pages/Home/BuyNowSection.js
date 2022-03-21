@@ -169,7 +169,7 @@ const BuyNowSection = () => {
                     onClick={handleClickBuy}
                     disabled={progressStatus}
                   >
-                    Buy now!
+                    SOON!
                   </BuyButton>
                 </Box>
               </Grid>
