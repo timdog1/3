@@ -48,7 +48,7 @@ const FooterSection = () => {
         </Box>
         <Box style={{ marginTop: 40 }}>
           <Typography className={classes.text}>
-            The Funky Horse Pub, All Right Reserved ().
+            
           </Typography>
         </Box>
       </Box>
