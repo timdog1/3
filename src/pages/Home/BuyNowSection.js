@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { Box, Grid, Typography } from '@material-ui/core'
 // images
-import walletImage from 'assets/images/Home/feature.png'
+import walletImage from 'assets/images/Home/feature.gif'
 import gameAvatar1 from 'assets/images/Home/yellow_monster.gif'
 import gameAvatar2 from 'assets/images/Home/green_monster.gif'
 import gameAvatar3 from 'assets/images/Home/pink_monster.gif'
