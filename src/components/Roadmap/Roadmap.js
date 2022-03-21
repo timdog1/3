@@ -1,9 +1,9 @@
 import React from 'react'
 
-// material ui core components
+
 import { Box, Typography } from '@material-ui/core'
 
-// styles
+
 import { makeStyles } from '@material-ui/core/styles'
 import styles from 'assets/jss/components/Roadmap/roadmapStyle'
 
