@@ -35,9 +35,7 @@ const TeamMeetSection = () => {
                 <Grid item xs={12} sm={12} md={7} lg={7} style={{ alignItems: 'center' }}>
                   <Box>
                     <Typography className={globalClasses.text21}>
-                    İsmail Can DOĞAN (CO-Founder-Designer-Community Manager-Developer) 
-                     />
-                  </Box>
+                    İsmail Can DOĞAN (CO-Founder-Designer-Community Manager-Developer)                     
                     Umut AĞGÜL (CO-Founder-Developer-Community Manager-NFT Activist)
                     </Typography>
                   </Box>
